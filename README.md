@@ -51,4 +51,4 @@ Cada carpeta cumple una función específica dentro de la organización del proy
 Puedes obtener una copia local del proyecto ejecutando el siguiente comando:
 
 ```bash
-git clone https:
+git clone https://github.com/Lozano-027/Grupo1_Gomez_Lozano.git
